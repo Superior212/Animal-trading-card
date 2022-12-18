@@ -1,5 +1,31 @@
 .trading-card{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 250px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 5px auto;
+    background-color: aqua;
+}
+.name{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.picture{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border: 3px solid #ccc;
+}
+.discription{
+    font-style: italic;
+    margin-bottom: 5px;
+}
+.facts{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.facts li{
+    margin-bottom: 5px;
 }
