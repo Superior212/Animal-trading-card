@@ -1,35 +1,34 @@
-.trading-card{
-    width: 300px;
-    padding: 20px;
-    border: 1px solid #d3bdbb;
-    margin: 5px auto;
-    border-radius: 30px;
-background: #d3bdbb;
-box-shadow:  1px 1px 5px #d3bdbb,
-             1px 1px 5px #d3bdbb;
+.trading-card {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #d3bdbb;
+  margin: 5px auto;
+  border-radius: 30px;
+  background: #d3bdbb;
+  box-shadow: 1px 1px 5px #d3bdbb, 1px 1px 5px #d3bdbb;
 }
-.name{
-    text-align: center;
-    font-size: 30px;
-    font-weight: bold;
-    margin-bottom: 5px;
-    font-family:sans-serif;
+.name {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-family: sans-serif;
 }
-.picture{
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    border: 3px solid #ddb8b5;
+.picture {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border: 3px solid #ddb8b5;
 }
-.discription{
-    margin-bottom: 10px;
-    border: 1px solid #d3bdbb;
+.discription {
+  margin-bottom: 10px;
+  border: 1px solid #d3bdbb;
 }
-.facts{
-    list-style: none;
-    padding: 0;
-    margin: 0;
+.facts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
-.facts li{
-    margin-bottom: 10px;
+.facts li {
+  margin-bottom: 10px;
 }
